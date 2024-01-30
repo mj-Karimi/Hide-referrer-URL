@@ -1,7 +1,7 @@
 # Hide-referrer-URL With #PHP
 Hide referrer URL with PHP
 
-<p>1- copy this file at your root</p>
+<p>1- copy index.php file at your root</p>
 <p>2- use this address for redirect:</p>
  <h3>http://yourdomain/?https://yourredirectdomain</h3>
 
